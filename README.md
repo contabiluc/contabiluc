@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @contabiluc
 - 👀 I’m interested in Linux and C Tad
 - 🌱 I’m currently learning Bash Shell commands, C and C++
-- 💞️ I’m looking to collaborate on Bash Shell commands
+- 💞️ I’m looking to collaborate on Bash Shell commands and C ,C++ TAD
 - 📫 How to reach me ...
 
 <!---
